@@ -1,0 +1,2 @@
+# StudySync
+# study-sync
